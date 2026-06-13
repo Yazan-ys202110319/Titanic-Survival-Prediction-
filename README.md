@@ -55,5 +55,6 @@ Both models were trained using an 80/20 train-test split.
 ## 🚀 How to Run
 
 ```bash
-pip install -r requirements.txt
-python main.py
+1. pip install -r requirements.txt
+
+2. Run: main.ipynb
